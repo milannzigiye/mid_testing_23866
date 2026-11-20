@@ -1,6 +1,6 @@
 # Library Management System (Java web app)
 
-Mid-semester Web Technology exam, AUCA, October to November 2024. Nzigiye Iyaad Milan, ID 23866.
+Built by Nzigiye Iyaad Milan at AUCA, October to November 2024.
 
 A library system built with Java servlets, JSP and Hibernate on PostgreSQL. It handles user registration and login, books, shelves, rooms and locations, borrowers, and membership plans. Each membership type sets how many books a member can borrow, and the system works out fines on late returns. A report page summarises the data.
 
